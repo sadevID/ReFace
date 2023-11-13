@@ -1,4 +1,4 @@
-FaceFusion
+ReFace
 ==========
 
 > Next generation face swapper and enhancer.
