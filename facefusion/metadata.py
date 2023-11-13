@@ -2,7 +2,7 @@ METADATA =\
 {
 	'name': 'ReFace',
 	'description': 'Next generation face swapper and enhancer',
-	'version': '1.0',
+	'version': '1.3.1',
 	'license': 'MIT',
 	'author': 'SA DevLabs',
 	'url': 'https://dev.samedia.biz.id'
